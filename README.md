@@ -43,7 +43,7 @@ An interactive Excel-based dashboard analyzing GDP and inflation trends across G
 - Identify patterns and correlations between economic indicators
 - Generate visual reports for presentations and decision-making
 
-## 🛠 Technical Requirements
+##  Technical Requirements
 
 - Microsoft Excel (2016 or later recommended)
 - Macros and calculation enabled
